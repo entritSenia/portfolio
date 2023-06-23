@@ -24,10 +24,10 @@
               <div class="col-lg-6">
                 <!-- (making websites based on the microsoft framework .NET and learning a lot of things about dependency injection,c#,razor pages,mysql,mongodb,UI-UX,photoshop) -->
                 <p>
-                  My name is Entrit Senia,i am a web developer who is interested in building
+                  <!-- My name is Entrit Senia,i am a web developer who is interested in building
                   websites. Having gained experience through my intership and the personal hours
-                  that i invest studying and learning new things, i use .NET , Laravel and Vue js 
-                   to develop my web applications.
+                  that i invest studying and learning new things, i use .NET , Laravel and Vue js
+                   to develop my web applications. -->
                 </p>
                 <div class="col-lg-12 about-button">
                   <RouterLink class="mr-4 first-button" to="/portfolio">Read More</RouterLink>

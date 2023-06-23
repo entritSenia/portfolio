@@ -29,17 +29,18 @@
                   <h4>Entrit Senia</h4>
                   <p>
                     <em
-                      >Passionate Front end Developer - Web Developer writing code with php
+                      >Passionate Front End Developer - Web Developer writing code with php
                       Laravel,combining it with Inertia,to get Vue js,making a SPA application,
                       starting way back from the college creating websites and later keeping up with
                       deadlines for my daily job.Learning something new everyday.Searching and
                       exploring the possibilities of using features in my application ,making the
-                      app faster and learning about databases and SQL.
+                      app faster and learning about databases and SQL, Docker. Using linux for
+                      deploying my websites.
                     </em>
                   </p>
                   <ul>
-                    <li>Athens, Greece</li>
-                    <li>(+30) 6993918151</li>
+                    <li>Wattignies, Lille, France</li>
+                    <!-- <li>(+30) 6993918151</li> -->
                     <li>entritsenia@gmail.com</li>
                   </ul>
                 </div>
@@ -53,7 +54,13 @@
                 </div>
                 <div class="resume-item">
                   <h4>ADVANCED COURSE HTML & JAVASCRIPT</h4>
-                  <h5>2022 - 2022</h5>
+                  <h5>2022</h5>
+                  <p><em>National and Kapodistrian University of Athens, Greece</em></p>
+                  <p></p>
+                </div>
+                <div class="resume-item">
+                  <h4>CYBERSECURITY & CYBERCRIME</h4>
+                  <h5>2021-2022</h5>
                   <p><em>National and Kapodistrian University of Athens, Greece</em></p>
                   <p></p>
                 </div>
@@ -67,7 +74,7 @@
               <div class="col-lg-6">
                 <h3 class="resume-title">Professional Experience</h3>
                 <div class="resume-item">
-                  <h4>Intern UI/UX Desinger</h4>
+                  <h4>Intern Web Developer</h4>
                   <h5>2022 - 2023</h5>
                   <p>
                     <em
@@ -84,8 +91,8 @@
                     <li>Photoshop</li>
                     <li>Github</li>
                     <li>Postman</li>
-                    <li>Building websites for clients / real estate agencies</li>
-                    <li>Keeping up with deadlines</li>
+                    <li>Deploying websites on IIS Server</li>
+                    <li>Building websites for clients / real estate agencies, Keeping up with Deadlines,</li>
                   </ul>
                 </div>
                 <!-- <div class="resume-item">

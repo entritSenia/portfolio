@@ -46,6 +46,12 @@
                 >
               </div>
               <div class="col-md-2 card">
+                <img src="../../public/img/linux.png" style="width: 79px" /><span
+                  style="padding: 20px"
+                  >Linux</span
+                >
+              </div>
+              <div class="col-md-2 card">
                 <img src="../../public/img/mysql.png" style="width: 79px" /><span
                   style="padding: 20px"
                   >MySql</span

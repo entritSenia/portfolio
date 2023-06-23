@@ -36,30 +36,32 @@
 
             <div class="row portfolio-container">
               <div class="col-lg-4 col-md-6 portfolio-item filter-blog">
-                <div class="portfolio-wrap">
-                  <img src="/img/portfolio/blog.jpg" class="img-fluid" alt="" />
-                  <div class="portfolio-info">
-                    <h4>Laravel</h4>
-                    <p>Blog</p>
-                    <div class="portfolio-links">
-                      <a
-                        href="/img/portfolio/blog.jpg"
-                        data-gallery="portfolioGallery"
-                        class="portfolio-lightbox"
-                        title="App 1"
-                        ><i class="bx bx-plus"></i
-                      ></a>
-                      <a
-                        href="portfolio-details.html"
-                        data-gallery="portfolioDetailsGallery"
-                        data-glightbox="type: external"
-                        class="portfolio-details-lightbox"
-                        title="Portfolio Details"
-                        ><i class="bx bx-link"></i
-                      ></a>
+                <a target="_blank" href="http://178.128.240.198/">
+                  <div class="portfolio-wrap">
+                    <img src="/img/portfolio/blog.jpg" class="img-fluid" alt="" />
+                    <div class="portfolio-info">
+                      <h4>Laravel</h4>
+                      <p>Blog</p>
+                      <div class="portfolio-links">
+                        <a
+                          href="http://178.128.240.198/"
+                          data-gallery="portfolioGallery"
+                          class="portfolio-lightbox"
+                          title="App 1"
+                          ><i class="bx bx-plus"></i
+                        ></a>
+                        <a
+                          href="http://178.128.240.198/"
+                          data-gallery="portfolioDetailsGallery"
+                          data-glightbox="type: external"
+                          class="portfolio-details-lightbox"
+                          title="Portfolio Details"
+                          ><i class="bx bx-link"></i
+                        ></a>
+                      </div>
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-shop">
