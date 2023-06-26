@@ -362,6 +362,7 @@ nav a:hover::before {
 }
 .slides .slide img {
   width: 100%;
+  height: 262px;
 }
 
 .main-btn a:hover {
@@ -1675,7 +1676,6 @@ section .container {
   left: 0 !important;
   transform: translateX(0) !important;
 }
-
 
 #openmenu:checked ~ .menu-pane {
   left: 0;

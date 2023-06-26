@@ -40,7 +40,7 @@
                   <div class="portfolio-wrap">
                     <img src="/img/portfolio/blog.jpg" class="img-fluid" alt="" />
                     <div class="portfolio-info">
-                      <h4>Laravel</h4>
+                      <h4>php-Laravel</h4>
                       <p>Blog</p>
                       <div class="portfolio-links">
                         <a
@@ -65,57 +65,61 @@
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-shop">
-                <div class="portfolio-wrap">
-                  <img src="/img/portfolio/e-shop.jpg" class="img-fluid" alt="" />
-                  <div class="portfolio-info">
-                    <h4>.NET + VUE Js</h4>
-                    <p>E-SHOP</p>
-                    <div class="portfolio-links">
-                      <a
-                        href="/img/portfolio/e-shop.jpg"
-                        data-gallery="portfolioGallery"
-                        class="portfolio-lightbox"
-                        title="Web 3"
-                        ><i class="bx bx-plus"></i
-                      ></a>
-                      <a
-                        href="portfolio-details.html"
-                        data-gallery="portfolioDetailsGallery"
-                        data-glightbox="type: external"
-                        class="portfolio-details-lightbox"
-                        title="Portfolio Details"
-                        ><i class="bx bx-link"></i
-                      ></a>
+                <a target="_blank" href="http://159.223.230.73/">
+                  <div class="portfolio-wrap">
+                    <img src="/img/portfolio/saverapp.jpg" class="img-fluid" alt="" />
+                    <div class="portfolio-info">
+                      <h4>php-Laravel + Inertia + vue Js</h4>
+                      <p>Application - SaverApp</p>
+                      <div class="portfolio-links">
+                        <a
+                          href="http://159.223.230.73/"
+                          data-gallery="portfolioGallery"
+                          class="portfolio-lightbox"
+                          title="Web 3"
+                          ><i class="bx bx-plus"></i
+                        ></a>
+                        <a
+                          href="http://159.223.230.73/"
+                          data-gallery="portfolioDetailsGallery"
+                          data-glightbox="type: external"
+                          class="portfolio-details-lightbox"
+                          title="Portfolio Details"
+                          ><i class="bx bx-link"></i
+                        ></a>
+                      </div>
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-portfolio">
-                <div class="portfolio-wrap">
-                  <img src="/img/portfolio/portfolio.jpg" class="img-fluid" alt="" />
-                  <div class="portfolio-info">
-                    <h4>Vue Js</h4>
-                    <p>PORTFOLIO</p>
-                    <div class="portfolio-links">
-                      <a
-                        href="/img/portfolio/portfolio.jpg"
-                        data-gallery="portfolioGallery"
-                        class="portfolio-lightbox"
-                        title="Web 2"
-                        ><i class="bx bx-plus"></i
-                      ></a>
-                      <a
-                        href="portfolio-details.html"
-                        data-gallery="portfolioDetailsGallery"
-                        data-glightbox="type: external"
-                        class="portfolio-details-lightbox"
-                        title="Portfolio Details"
-                        ><i class="bx bx-link"></i
-                      ></a>
+                <a target="_blank" href="https://entritseniaportfolio.pages.dev/">
+                  <div class="portfolio-wrap">
+                    <img src="/img/portfolio/portfolio.jpg" class="img-fluid" alt="" />
+                    <div class="portfolio-info">
+                      <h4>Vue Js</h4>
+                      <p>PORTFOLIO</p>
+                      <div class="portfolio-links">
+                        <a
+                          href="https://entritseniaportfolio.pages.dev/"
+                          data-gallery="portfolioGallery"
+                          class="portfolio-lightbox"
+                          title="Web 2"
+                          ><i class="bx bx-plus"></i
+                        ></a>
+                        <a
+                          href="portfolio-details.html"
+                          data-gallery="portfolioDetailsGallery"
+                          data-glightbox="type: external"
+                          class="portfolio-details-lightbox"
+                          title="Portfolio Details"
+                          ><i class="bx bx-link"></i
+                        ></a>
+                      </div>
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
           </div>
