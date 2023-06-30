@@ -22,11 +22,11 @@
           </div>
           <h2>I'm Entrit Senia</h2>
           <p>
-            <span>FRONT-END DEVELOPER</span>
+            <span>WEB DEVELOPER</span>
             <!-- <span>Vue Js</span> -->
             <!-- <span>INERTIA JS</span> -->
             <!-- <span>PHP LARAVEL</span> -->
-            <span>UI/UX DESIGNER</span>
+            <span>BACK-END DEVELOPER</span>
           </p>
           <RouterLink to="/resume"
             ><button class="mr-4 first-button-index">About me</button></RouterLink
