@@ -36,7 +36,7 @@
 
             <div class="row portfolio-container">
               <div class="col-lg-4 col-md-6 portfolio-item filter-blog">
-                <a target="_blank" href="http://178.128.240.198/">
+                <a target="_blank" href="https://github.com/entritSenia/laravel-blog">
                   <div class="portfolio-wrap">
                     <img src="/img/portfolio/blog.jpg" class="img-fluid" alt="" />
                     <div class="portfolio-info">
@@ -44,14 +44,14 @@
                       <p>Blog</p>
                       <div class="portfolio-links">
                         <a
-                          href="http://178.128.240.198/"
+                          href="https://github.com/entritSenia/laravel-blog"
                           data-gallery="portfolioGallery"
                           class="portfolio-lightbox"
                           title="App 1"
                           ><i class="bx bx-plus"></i
                         ></a>
                         <a
-                          href="http://178.128.240.198/"
+                          href="https://github.com/entritSenia/laravel-blog"
                           data-gallery="portfolioDetailsGallery"
                           data-glightbox="type: external"
                           class="portfolio-details-lightbox"
@@ -65,7 +65,7 @@
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-shop">
-                <a target="_blank" href="http://159.223.230.73/">
+                <a target="_blank" href="https://github.com/entritSenia/SaverApp">
                   <div class="portfolio-wrap">
                     <img src="/img/portfolio/saverapp.jpg" class="img-fluid" alt="" />
                     <div class="portfolio-info">
@@ -73,14 +73,14 @@
                       <p>Application - SaverApp</p>
                       <div class="portfolio-links">
                         <a
-                          href="http://159.223.230.73/"
+                          href="https://github.com/entritSenia/SaverApp"
                           data-gallery="portfolioGallery"
                           class="portfolio-lightbox"
                           title="Web 3"
                           ><i class="bx bx-plus"></i
                         ></a>
                         <a
-                          href="http://159.223.230.73/"
+                          href="https://github.com/entritSenia/SaverApp"
                           data-gallery="portfolioDetailsGallery"
                           data-glightbox="type: external"
                           class="portfolio-details-lightbox"
@@ -94,7 +94,7 @@
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-portfolio">
-                <a target="_blank" href="https://entritseniaportfolio.pages.dev/">
+                <a target="_blank" href="https://github.com/entritSenia/portfolio">
                   <div class="portfolio-wrap">
                     <img src="/img/portfolio/portfolio.jpg" class="img-fluid" alt="" />
                     <div class="portfolio-info">
@@ -102,14 +102,14 @@
                       <p>PORTFOLIO</p>
                       <div class="portfolio-links">
                         <a
-                          href="https://entritseniaportfolio.pages.dev/"
+                          href="https://github.com/entritSenia/portfolio"
                           data-gallery="portfolioGallery"
                           class="portfolio-lightbox"
                           title="Web 2"
                           ><i class="bx bx-plus"></i
                         ></a>
                         <a
-                          href="portfolio-details.html"
+                          href="https://github.com/entritSenia/portfolio"
                           data-gallery="portfolioDetailsGallery"
                           data-glightbox="type: external"
                           class="portfolio-details-lightbox"

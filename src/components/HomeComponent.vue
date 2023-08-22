@@ -15,8 +15,8 @@
             <a href="https://www.instagram.com/entritsenia/"
               ><i class="fa-brands fa-instagram"></i
             ></a>
-            <a href="https://gr.pinterest.com/entritsenia/"
-              ><i class="fa-brands fa-pinterest"></i
+            <a href="https://github.com/entritSenia"
+              ><i class="fa-brands fa-github"></i
             ></a>
             <!--<i class="fa-brands fa-twitter"></i> -->
           </div>
@@ -31,7 +31,7 @@
           <RouterLink to="/resume"
             ><button class="mr-4 first-button-index">About me</button></RouterLink
           >
-          <a href="../../public/EntritSenia.pdf" download
+          <a href="/CV-EntritSenia.pdf" download
             ><button class="second-button-index">Download CV</button></a
           >
         </div>
