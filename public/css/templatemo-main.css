@@ -299,7 +299,7 @@ nav a:hover::before {
   transition: -webkit-transform 0.8s ease;
   transition: transform 0.8s ease;
   transition: transform 0.8s ease, -webkit-transform 0.8s ease;
-  background-color: #6c757d;
+  background-color: #35373b;
   /* background: rgb(236, 236, 236);
   background: linear-gradient(
     90deg,
@@ -328,9 +328,11 @@ nav a:hover::before {
   position: relative;
   width: 70%;
   height: 100%;
-  left: 30%;
+  left: 25%;
   top: 5%;
   bottom: 10%;
+  /* overflow: hidden; */
+  overflow: auto;
   /* background: rgba(0, 0, 0, 0.5); */
 }
 .content::-webkit-scrollbar {
@@ -411,7 +413,7 @@ nav a:hover::before {
   border: 1px solid #adb5bd;
   border-radius: 0;
   color: #fff;
-  background-color: #adb5bd;
+  background-color: #35373b;
   padding: 12px 24px;
   transition: 0.3s;
   margin-top: 15px;
@@ -420,8 +422,8 @@ nav a:hover::before {
 .first-button-index:hover {
   opacity: 1;
   background-color: #fff;
-  color: #adb5bd;
-  border: 1px solid #adb5bd;
+  color: #35373b;
+  border: 1px solid #35373b;
 }
 
 .second-button-index {
@@ -430,7 +432,7 @@ nav a:hover::before {
   text-transform: uppercase;
   border: 1px solid #fff;
   border-radius: 0;
-  color: #adb5bd;
+  color: #35373b;
   background-color: #fff;
   padding: 12px 24px;
   transition: 0.3s;
@@ -439,7 +441,7 @@ nav a:hover::before {
 
 .second-button-index:hover {
   opacity: 1;
-  background-color: #adb5bd;
+  background-color: #35373b;
   color: #fff;
   border: 1px solid #ffffff;
 }
@@ -759,16 +761,21 @@ nav a:hover::before {
 
 .third-content .card {
   font-size: 55px;
-  padding: 30px;
+  padding: 40px;
   text-align: center;
-  margin: 10px;
+  margin: 20px;
   box-shadow: 0 0 10px #3a3a3a;
   /* background: rgb(249, 249, 249);
   background: linear-gradient(90deg, rgba(249, 249, 249, 1) 55%, rgba(255, 255, 255, 1) 100%); */
   background-color: #adb5bd;
   opacity: 0.9;
   transition: 0.4s;
-  border-radius: 15px;
+  border-radius: 50%;
+}
+
+.third-content .card img {
+  width: 50px;
+  height: 70px;
 }
 
 .third-content .card:hover {

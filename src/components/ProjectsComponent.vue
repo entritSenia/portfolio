@@ -8,7 +8,7 @@
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
           <div class="container mt-2">
-            <div class="pb-5 col-lg-10 text-center">
+            <div class="pb-5 col-lg-12 text-center">
               <h4
                 style="
                   text-transform: uppercase;
@@ -34,11 +34,16 @@
               </div>
             </div> -->
 
-            <div class="row portfolio-container">
-              <div class="col-lg-4 col-md-6 portfolio-item filter-blog">
+            <div class="row portfolio-container" style="margin-top: 100px">
+              <div class="col-lg-6 col-md-6 portfolio-item filter-blog">
                 <a target="_blank" href="https://github.com/entritSenia/laravel-blog">
                   <div class="portfolio-wrap">
-                    <img src="/img/portfolio/blog.jpg" class="img-fluid" alt="" />
+                    <img
+                      src="/img/portfolio/blog.jpg"
+                      style="height: 400px !important"
+                      class="img-fluid"
+                      alt=""
+                    />
                     <div class="portfolio-info">
                       <h4>php-Laravel</h4>
                       <p>Blog</p>
@@ -64,10 +69,15 @@
                 </a>
               </div>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-shop">
+              <div class="col-lg-6 col-md-6 portfolio-item filter-shop">
                 <a target="_blank" href="https://github.com/entritSenia/SaverApp">
                   <div class="portfolio-wrap">
-                    <img src="/img/portfolio/saverapp.jpg" class="img-fluid" alt="" />
+                    <img
+                      src="/img/portfolio/saverapp.jpg"
+                      style="height: 400px !important"
+                      class="img-fluid"
+                      alt=""
+                    />
                     <div class="portfolio-info">
                       <h4>php-Laravel + Inertia + vue Js</h4>
                       <p>Application - SaverApp</p>
@@ -93,10 +103,15 @@
                 </a>
               </div>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-portfolio">
+              <div class="col-lg-6 col-md-6 portfolio-item filter-portfolio">
                 <a target="_blank" href="https://github.com/entritSenia/portfolio">
                   <div class="portfolio-wrap">
-                    <img src="/img/portfolio/portfolio.jpg" class="img-fluid" alt="" />
+                    <img
+                      src="/img/portfolio/portfolio.jpg"
+                      style="height: 400px !important"
+                      class="img-fluid"
+                      alt=""
+                    />
                     <div class="portfolio-info">
                       <h4>Vue Js</h4>
                       <p>PORTFOLIO</p>
@@ -110,6 +125,39 @@
                         ></a>
                         <a
                           href="https://github.com/entritSenia/portfolio"
+                          data-gallery="portfolioDetailsGallery"
+                          data-glightbox="type: external"
+                          class="portfolio-details-lightbox"
+                          title="Portfolio Details"
+                          ><i class="bx bx-link"></i
+                        ></a>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-6 col-md-6 portfolio-item filter-portfolio">
+                <a target="_blank" href="https://github.com/entritSenia/react_book_reading">
+                  <div class="portfolio-wrap">
+                    <img
+                      src="/img/portfolio/react_book_app.png"
+                      style="height: 400px !important"
+                      class="img-fluid"
+                      alt=""
+                    />
+                    <div class="portfolio-info">
+                      <h4>React Native</h4>
+                      <p>Book App</p>
+                      <div class="portfolio-links">
+                        <a
+                          href="https://github.com/entritSenia/react_book_reading"
+                          data-gallery="portfolioGallery"
+                          class="portfolio-lightbox"
+                          title="Web 2"
+                          ><i class="bx bx-plus"></i
+                        ></a>
+                        <a
+                          href="https://github.com/entritSenia/react_book_reading"
                           data-gallery="portfolioDetailsGallery"
                           data-glightbox="type: external"
                           class="portfolio-details-lightbox"

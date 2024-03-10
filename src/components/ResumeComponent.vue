@@ -3,11 +3,11 @@
 <template>
   <div class="slide" id="4">
     <div class="content fourth-content">
-      <div class="container-fluid col-lg-10">
+      <div class="container-fluid col-lg-12">
         <!-- ======= Resume Section ======= -->
         <section id="resume" class="resume">
           <div class="container">
-            <div class="pb-5 col-lg-10 text-center">
+            <div class="pb-5 col-lg-12 text-center">
               <h4
                 style="
                   text-transform: uppercase;
@@ -29,13 +29,11 @@
                   <h4>Entrit Senia</h4>
                   <p>
                     <em
-                      >Passionate Front End Developer - Web Developer writing code with php
-                      Laravel,combining it with Inertia,to get Vue js,making a SPA application,
-                      starting way back from the college creating websites and later keeping up with
-                      deadlines for my daily job.Learning something new everyday.Searching and
-                      exploring the possibilities of using features in my application ,making the
-                      app faster and learning about databases and SQL, Docker. Using linux for
-                      deploying my websites.
+                      >Avec de l'expérience en .NET, jQuery, MongoDB et en création de sites Web
+                      pour les clients, je me suis aventuré dans Vue.js, React Native, Laravel PHP,
+                      Docker et Linux. En élaborant des solutions sur mesure alliant élégance et
+                      efficacité, je m'efforce de résoudre des défis complexes et d'obtenir des
+                      résultats exceptionnels.
                     </em>
                   </p>
                   <ul>
@@ -49,7 +47,7 @@
                 <div class="resume-item">
                   <h4>Bsc Engineering</h4>
                   <h5>2023 - present</h5>
-                  <p><em>IU International University of Applied Sciences</em></p>
+                  <p><em>IUBH</em></p>
                   <p></p>
                 </div>
                 <div class="resume-item">
@@ -66,7 +64,7 @@
                 </div>
                 <div class="resume-item">
                   <h4>IT Application Technician Diploma</h4>
-                  <h5>2020 - 2022</h5>
+                  <h5>2020 - 2023</h5>
                   <p><em>Vocational institution, Athens, Greece</em></p>
                   <p></p>
                 </div>
@@ -91,8 +89,11 @@
                     <li>Photoshop</li>
                     <li>Github</li>
                     <li>Postman</li>
-                    <li>Deploying websites on IIS Server</li>
-                    <li>Building websites for clients / real estate agencies, Keeping up with Deadlines,</li>
+                    <li>Déploiement de sites Web sur le serveur IIS</li>
+                    <li>
+                      Création de sites internet pour clients/agences immobilières, Respect des
+                      délais,
+                    </li>
                   </ul>
                 </div>
                 <!-- <div class="resume-item">
